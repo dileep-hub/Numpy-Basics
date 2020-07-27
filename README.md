@@ -1,2 +1,2 @@
 # Numpy-Basics
-Numpy basics
+Numpy basics for beginners
