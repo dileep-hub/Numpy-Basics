@@ -1,2 +1,2 @@
 # Numpy-Basics
-Numpy basics for beginners
+Numpy basics for beginners for datascience.
